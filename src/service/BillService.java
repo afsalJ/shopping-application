@@ -32,7 +32,7 @@ public class BillService {
                 + " Rs "
             )
             +
-            "[Calcualation:"
+            "[Calcualation: "
             +calculationTotalPrice
             +(
                 discountValue!=0d ?
